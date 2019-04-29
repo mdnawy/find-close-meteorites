@@ -9,5 +9,5 @@ This package reqires python3 and requests pip package
 
 ```
 pipenv install
-pipenv rn "python find_meteors.py"
+pipenv run "python meteors/find_meteors.py"
 ```
